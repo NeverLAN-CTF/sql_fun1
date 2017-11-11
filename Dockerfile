@@ -41,4 +41,3 @@ RUN \
     rm /tmp/pass_web && \
     rm /tmp/pass_root     
 
-
